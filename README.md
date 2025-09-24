@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im 17 <br>i love Digital Forensics and OSINT<br>Learning Hardware Programming/Reverse Engineering
+Im 18 Learning Hardware Programming/Reverse Engineering
 
 
 ## 🌐 Socials:
